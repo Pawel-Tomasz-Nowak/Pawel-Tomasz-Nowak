@@ -21,6 +21,4 @@ I'm always excited to expand my knowledge and stay updated on the latest tools a
 
 ---
 
-:telephone_receiver: Feel free to connect with me here as I explore new data analysis techniques, build cool projects, and share what I learn along the way!
-[Find me on LinkedIn](linkedin.com/in/pawełtomasznowak)
-[E-mail me](pawelnowak2004priv@gmail.com)
+:telephone_receiver: Feel free to connect with me here as I explore new data analysis techniques, build cool projects, and share what I learn along the way! You can find me on [LinkedIn](linkedin.com/in/pawełtomasznowak) or you can e-mail me [pawelnowak2004priv@gmail.com].
