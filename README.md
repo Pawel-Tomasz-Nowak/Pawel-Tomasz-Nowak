@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm [Pawel Nowak]!
-I'm really delighted to have you here 😀
+
+I'm glad to have you here 😀
+
 I'm a **data science enthusiast** passionate about turning mathematical ideas and statistical theory into practical solutions. Whether it’s designing algorithms from scratch or building end-to-end predictive pipelines, I thrive on exploring the intersection of mathematics, programming, and real-world data.
 
 ### 🔍 What Drives Me:
@@ -11,8 +13,11 @@ My main programming language is **Python**, and I love building things from the 
 - **NumPy** – for efficient numerical operations and linear algebra.
 - **Polars & Pandas** – for fast, flexible data manipulation and wrangling.
 - **Scikit-learn** – as inspiration for model interfaces, though I often reimplement algorithms to learn deeply.
+- **Custom modules** – I frequently write my own regression, classification, clustering, and optimization code.
 - **Seaborn** – for data visualization and communicating insights.
 - **Jupyter Notebooks** – for exploratory analysis and reproducible research.
+- **SQL** – for advanced querying, data extraction, and database management.
+- **Excel** – for rapid prototyping, data cleaning, and presentation of results.
 
 ### 🧑‍💻 What I Build:
 I'm eager to implement machine learning and data science solutions from scratch—whether it's regression, classification, clustering, or optimization. I enjoy translating mathematical concepts directly into code, ensuring I understand every step of the process and can tailor solutions to unique challenges.
