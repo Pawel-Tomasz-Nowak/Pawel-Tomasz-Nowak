@@ -31,4 +31,4 @@ I'm always eager to expand my skill set and stay current with new technologies a
 
 ---
 
-:telephone_receiver: Feel free to connect as I explore new machine learning techniques, statistical approaches, and data visualization tools! Find me on [LinkedIn](https://linkedin.com/in/pawełtomasznowak) or email me at [pawel.tomasz.nowak04@gmail.com].
+:telephone_receiver: Feel free to connect as I explore new machine learning techniques, statistical approaches, and data visualization tools! Find me on [LinkedIn](https://linkedin.com/in/pawełtomasznowak) or email me at pawel.tomasz.nowak04@gmail.com.
