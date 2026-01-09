@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Pawel Nowak!
+### 👋 Hi there, I'm Paweł Nowak!
 
 I'm glad to have you here 😀
 
