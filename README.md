@@ -18,14 +18,13 @@ My main programming language is **Python**, and I love building things from the 
 - **Jupyter Notebooks** – for exploratory analysis and reproducible research.
 - **SQL** – for advanced querying, data extraction, and database management.
 - **Excel** – for rapid prototyping, data cleaning, and presentation of results.
-
+- **PowerBI** - for creating stunning visualization and KPIs that drive the business forward
 ### 🧑‍💻 What I Build:
 I'm eager to implement machine learning and data science solutions from scratch—whether it's regression, classification, clustering, or optimization. I enjoy translating mathematical concepts directly into code, ensuring I understand every step of the process and can tailor solutions to unique challenges.
 
 ### 🚀 On My Learning Path:
 I'm always eager to expand my skill set and stay current with new technologies and languages. Currently, I'm:
-
-- Finishing a **Power BI** course to add powerful business intelligence and interactive dashboarding to my toolbox.
+- Learning databricks to preprocess large-scale data with AI/Cloud technologies
 - Exploring the **R programming language** to deepen my statistical analysis and visualization skills.
 - Curious about the **Mojo language** for its promise in high-performance data processing.
 
